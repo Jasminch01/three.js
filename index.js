@@ -32,5 +32,4 @@ function animate() {
   
   renderer.render(secne, camera);
 }
-
 animate();
